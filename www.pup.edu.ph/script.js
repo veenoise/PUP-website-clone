@@ -1,1 +1,3 @@
-alert("Welcome to PUP")
+document.addEventListener("DOMContentLoaded", () => {
+	alert("Welcome to PUP");
+})
