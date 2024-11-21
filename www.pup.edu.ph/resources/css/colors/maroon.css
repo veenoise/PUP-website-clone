@@ -1,0 +1,412 @@
+﻿a {
+    color: #800;
+}
+
+.accent-color {
+	color: #800;
+}
+
+.accent-color-bg {
+	background-color: #800;
+}
+
+.top-bar a:hover {
+	color: #800;
+}
+
+.section-overlay {
+	background-color: #800;
+}
+
+.top-bar.color-bar {
+	background-color: #800;
+}
+.global-link-color * {
+  color: #800;!important;
+}
+.service-box .read-more {
+	color: #800;
+}
+
+a.main-button, input[type=submit] {
+	background-color: #800;
+}
+.slicknav_btn {
+  border-color: #fff;
+}
+.slicknav_btn:hover {
+  background: #800;
+}
+.slicknav_menu .slicknav_icon-bar {
+  background: #fff;
+}
+.slicknav_nav a:hover,
+.slicknav_nav .active {
+  color: #800;
+}
+.navbar-default .navbar-nav > li:hover > a,
+.navbar-default .navbar-nav > li > a.active {
+	color: #800;
+}
+
+.dropdown > li:hover > a, .sup-dropdown li:hover > a {
+	color: #800;
+}
+
+.navbar-default .navbar-nav > li > a:after {
+	background-color: #800;
+}
+
+.navbar-default .navbar-nav > li > a.active, .navbar-default .navbar-nav > li:hover > a {
+	border-color: #800;
+}
+
+.dropdown  li a.active, .sup-dropdown li a.active {
+	color: #800;
+}
+
+ul.breadcrumbs li a:hover {
+    color: #800;
+}
+
+.full-width-recent-projects .portfolio-item:hover .portfolio-thumb .thumb-overlay {
+	background-color: #800;
+}
+
+.tp-caption.color-bg {
+	background-color: #800;
+}
+
+.team-member .member-socail a.mail:hover i {
+	background-color: #800;
+}
+
+.post-share a.mail:hover {
+	background-color: #800;
+}
+
+.progress .progress-bar.progress-bar-primary {
+	background-color: #800;
+}
+
+.latest-posts-classic .left-meta-post .post-type i {
+	background-color: #800;
+}
+
+.latest-posts-classic .post-title a:hover {
+	color: #800;
+}
+
+.latest-posts-classic .read-more {
+	color: #800;
+}
+
+.panel-title a {
+	color: #800;
+}
+
+.panel-title a:hover {
+	color: #800;
+}
+
+.milestone-block .milestone-icon {
+	background-color: #800;
+}
+
+.milestone-block .milestone-icon:after {
+	background-color: #800;
+}
+
+.milestone-block .milestone-number {
+	color: #800;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-name h3 {
+	//color: #800;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-signup {
+    background-color: #800;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-name {
+	background-color: #800;
+}
+
+.btn-system {
+	background-color: #800;
+}
+
+.btn-system.border-btn {
+	border-color: #800;
+	color: #800;
+}
+
+.btn-system.border-btn:hover {
+	background-color: #800;
+}
+
+.btn-system.border-btn.btn-wite:hover {
+	color: #800;
+}
+
+.btn-system.btn-wite{
+	color: #800;
+}
+
+ul.icons-list li i {
+	color: #800;
+}
+
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	background-color: #800;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover {
+	color: #800;
+}
+
+.icon-small {
+	text-shadow: 0 0 0 #800;
+}
+
+.icon-small:hover, .service-box:hover .icon-small {
+	color: #800;
+}
+.icon-medium {
+	text-shadow: 0 0 0 #800;
+}
+
+.icon-medium:hover, .service-box:hover .icon-medium {
+	color: #800;
+}
+
+.icon-large {
+	text-shadow: 0 0 0 #800;
+}
+
+.icon-large:hover, .service-box:hover .icon-large {
+	color: #800;
+}
+
+.icon-effect-1 {
+	box-shadow: 0 0 0 3px #800;
+	-o-box-shadow: 0 0 0 3px #800;
+	-moz-box-shadow: 0 0 0 3px #800;
+  	-webkit-box-shadow: 0 0 0 3px #800;
+}
+
+.icon-effect-1:after {
+	background-color: #800;
+}
+
+.icon-effect-1:hover, .service-box:hover .icon-effect-1 {
+	color: #800;
+}
+
+.icon-effect-2 {
+	color: #800;
+	box-shadow: 0 0 0 3px #800;
+	-o-box-shadow: 0 0 0 3px #800;
+	-moz-box-shadow: 0 0 0 3px #800;
+  	-webkit-box-shadow: 0 0 0 3px #800;
+}
+
+.icon-effect-2:after {
+	background-color: #800;
+}
+
+.icon-effect-3 {
+	color: #800;
+	box-shadow: 0 0 0 3px #800;
+	-o-box-shadow: 0 0 0 3px #800;
+	-moz-box-shadow: 0 0 0 3px #800;
+  	-webkit-box-shadow: 0 0 0 3px #800;
+}
+
+.icon-effect-4 {
+	color: #800;
+	box-shadow: 0 0 0 3px #800;
+	-o-box-shadow: 0 0 0 3px #800;
+	-moz-box-shadow: 0 0 0 3px #800;
+  	-webkit-box-shadow: 0 0 0 3px #800;
+}
+
+.icon-effect-5 {
+	color: #800;
+	box-shadow: 0 0 0 3px #800;
+	-o-box-shadow: 0 0 0 3px #800;
+	-moz-box-shadow: 0 0 0 3px #800;
+  	-webkit-box-shadow: 0 0 0 3px #800;
+}
+
+.icon-effect-6 {
+	color: #800;
+	box-shadow: 0 0 0 3px #800;
+	-o-box-shadow: 0 0 0 3px #800;
+	-moz-box-shadow: 0 0 0 3px #800;
+  	-webkit-box-shadow: 0 0 0 3px #800;
+}
+
+.team-member .member-photo .member-name span {
+	background-color: #800;
+}
+
+.classic-title span {
+	border-bottom-color: #800;
+}
+
+.portfolio-filter li a:hover {
+	color: #800;
+}
+
+.portfolio-filter li a.selected {
+	border-color: #800;
+	background-color: #800;
+}
+
+.portfolio-item:hover .portfolio-details h4 {
+	color: #800;
+}
+
+.project-content h4 span {
+	border-bottom-color: #800;
+}
+#portfolio-list  .icon-list a{
+	color: #800;
+}
+#portfolio-list  .icon-list a:hover {
+  background: #800;
+}
+.recent-projects h4.title span {
+	border-bottom-color: #800;
+}
+
+ul.post-meta li a:hover {
+	color: #800;
+}
+
+#pagination span.current {
+	border-color: #800;
+	background-color: #800;
+}
+
+#pagination a:hover {
+	color: #800;
+}
+
+.post-tags-list a:hover {
+	background-color: #800;
+}
+
+.post-share a.mail {
+	background-color: #800;
+}
+
+.sidebar a:hover {
+	color: #800;
+}
+
+.widget-search .search-btn {
+	background-color: #800;
+}
+
+.sidebar .tagcloud a:hover {
+    background-color: #800;
+}
+
+.back-to-top:hover i {
+    background-color: rgba(255, 188, 0, 0.6);
+    -webkit-backdrop-filter: blur(10px) saturate(125%) !important;
+    backdrop-filter: blur(10px) saturate(125%) !important;
+}
+
+.touch-slider .owl-controls.clickable .owl-buttons div:hover {
+	background-color: #800;
+}
+
+.touch-carousel .owl-controls.clickable .owl-buttons div:hover {
+	background-color: #800;
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons div {
+	background-color: #800;
+}
+
+.testimonials-carousel .owl-controls.clickable .owl-buttons div:hover i {
+	color: #800;
+}
+
+
+
+
+#portfolio-list li:after {
+    background: rgba(128, 0, 0, 0.9);
+}
+
+.services-3-icon i {
+    background-color: #800;
+}
+
+.services-2-icon i {
+    background-color: #800;
+}
+
+.progress-bar {
+    background-color: #800;
+}
+
+#main-slide .animated2 strong {
+    color: #800;
+}
+#main-slide .animated4 strong {
+    color: #800;
+}
+#main-slide .animated7 strong {
+    color: #800;
+}
+
+#main-slide .carousel-control i:hover{
+	background: #800;
+}
+.slider.btn {
+    background-color: #800;
+}
+
+#main-slide .carousel-indicators .active {
+    background-color: #800;
+}
+
+
+.counter-item i {
+    color: #800;
+}
+
+.timer {
+    color: #800;
+}
+
+.team-member.modern .member-photo:after {
+    background-color: #800;
+}
+
+
+.twitter-widget a {
+	color: #800;
+}
+
+.dot1, .dot2 {
+    background-color: #800;
+}
+.copyright-section p a{
+	color: #800;
+}
+.events .event-socail a.mail:hover i {
+	background-color: #800;
+}
+.events .event-photo .event-name span {
+	background-color: #800;
+}
+.events.modern .event-photo:after {
+    background-color: #800;
+}
