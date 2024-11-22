@@ -2,10 +2,10 @@
 
 ################################################
 #  This payload only works for brave browser,  #
-#  Must be running Linux				       #
+#  Must be running Linux                       #
 #                                              #
-#											   #
-#  Author: William Chua						   #
+#                                              #
+#  Author: William Chua                        #   
 ################################################
 
 # Get process ids
