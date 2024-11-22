@@ -14,6 +14,10 @@ Create your first virus
 
 ```
 
+### Demonstration
+![demo](https://github.com/user-attachments/assets/c9003fb3-0f64-4db4-941a-d0c9e416802c)
+
+
 ### Limitations
 
 1. This program is OS-specific and works only on Linux.
